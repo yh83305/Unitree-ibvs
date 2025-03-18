@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/unitree_ws/devel
+
+Name: ibvs
+Description: Description of ibvs
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
